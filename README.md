@@ -1,6 +1,3 @@
-# 🏠 Nashville-Housing-Data-Cleaning
-Data Cleaning and Transformation of Nashville Housing Records using SQL Server (T-SQL).
-
 # 🏠 Nashville Housing Data Cleaning Project
 
 ## 📌 Project Overview
